@@ -1,0 +1,17 @@
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\TiendaApi.exe
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\TiendaApi.dll
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\TiendaApi.deps.json
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\TiendaApi.runtimeconfig.json
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\TiendaApi.pdb
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\APIS_PRUEBAS\TiendaApi\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
